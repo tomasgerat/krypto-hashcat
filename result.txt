@@ -1,7 +1,15 @@
 #hashcat  HASHES.txt names_processed.lst -m 10
-cdbad671e1ea1601b6a412101b279aad:DdvjOHO1:kAtarina
+3e0d0be6d63e7e63b603a334c226b70e:IrL17qMk:sonicKa
+c9933d4beff737e45573aad8d1efe815:WmD572Sz:adamKo
 3006a1f037e8fa1de451470c02c88428:VU79g70b:milaDa
+6558ce0e1851c1eb61a7e3c4fa51fb84:u4pHw9sO:adamKo
+41771cc6490930bbca9185c5ad8e7130:khTOSSyC:maTusko
 1829ef19d0f06549c67d8345ab0e0b94:lwDTZIfw:leNka
+33548f2307cb1099a92b87a2ae262677:ZTXfkOqQ:petkO
+e6764000965e7a675279bcf92c91975e:PXtjm38T:adamKo
+cdbad671e1ea1601b6a412101b279aad:DdvjOHO1:kAtarina
+e2b06c283afc7e863dd9e00e127d289b:Iwjsc2Tb:petkO
+f71e79af727fe3d00905bbb32b4f601e:OEkygqBk:maTusko
 
 #hashcat -a 3 HASHES.txt ?l?l?l?l?l?l?l -i --increment-min=6 -m 10
 #hashcat -a 3 HASHES.txt ?l?l?l?l?l?l  -m 10
@@ -16,7 +24,8 @@ d02eaaa2aca13ec4bf03dcc82d856ae4:v5srixHC:xyzabc
 01711dfa917fe29447409f820715c55b:sSi5cEYz:zfiofdd
 e091a69539e046923600c83de6964589:XBmGIaPQ:qhvkrls
 78f1b67544055c2e496160f00ca7ff84:V6bnolRk:zfiofdd
-
+b1ea229bf73c5c298d5871a8b400078e:1hVaRkXL:jaspemf
+f9612115ebd93ebc866cd856f0835549:Tljkk9Tn:jaspemf
 
 #hashcat -a 3 HASHES.txt -1 ?l?d?u ?1?1?1?1?1 -i --increment-min=4 -m 10
 570a49413df1a7f0a9b1a1851c412989:3i6bbjaT:e1VL

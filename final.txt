@@ -1,7 +1,15 @@
 #hashcat  HASHES.txt names_processed.lst -m 10
-zbrWceHqFgG2pBIQGyearQ==:cdbad671e1ea1601b6a412101b279aad:DdvjOHO1:urban14:kAtarina
+Pg0L5tY+fmO2A6M0wia3Dg==:3e0d0be6d63e7e63b603a334c226b70e:IrL17qMk:svrcek14:sonicKa
+yZM9S+/3N+RVc6rY0e/oFQ==:c9933d4beff737e45573aad8d1efe815:WmD572Sz:soukal:adamKo
 MAah8Dfo+h3kUUcMAsiEKA==:3006a1f037e8fa1de451470c02c88428:VU79g70b:nemecm:milaDa
+ZVjODhhRwethp+PE+lH7hA==:6558ce0e1851c1eb61a7e3c4fa51fb84:u4pHw9sO:sagan00:adamKo
+QXccxkkJMLvKkYXFrY5xMA==:41771cc6490930bbca9185c5ad8e7130:khTOSSyC:glemba:maTusko
 GCnvGdDwZUnGfYNFqw4LlA==:1829ef19d0f06549c67d8345ab0e0b94:lwDTZIfw:petran:leNka
+M1SPIwfLEJmpK4eiriYmdw==:33548f2307cb1099a92b87a2ae262677:ZTXfkOqQ:kochlan4:petkO
+5nZAAJZeemdSebz5LJGXXg==:e6764000965e7a675279bcf92c91975e:PXtjm38T:kalous:adamKo
+zbrWceHqFgG2pBIQGyearQ==:cdbad671e1ea1601b6a412101b279aad:DdvjOHO1:urban14:kAtarina
+4rBsKDr8foY92eAOEn0omw==:e2b06c283afc7e863dd9e00e127d289b:Iwjsc2Tb:szabo22:petkO
+9x55r3J/49AJBbuzK09gHg==:f71e79af727fe3d00905bbb32b4f601e:OEkygqBk:sagan00:maTusko
 
 #hashcat -a 3 HASHES.txt ?l?l?l?l?l?l?l -i --increment-min=6 -m 10
 #hashcat -a 3 HASHES.txt ?l?l?l?l?l?l  -m 10
@@ -16,7 +24,8 @@ aGquUh4PuChPuaeBNCzg/Q==:686aae521e0fb8284fb9a781342ce0fd:UwB7tWag:paluch:xyzabc
 AXEd+pF/4pRHQJ+CBxXFWw==:01711dfa917fe29447409f820715c55b:sSi5cEYz:franek17:zfiofdd
 4JGmlTngRpI2AMg95pZFiQ==:e091a69539e046923600c83de6964589:XBmGIaPQ:pachnik:qhvkrls
 ePG2dUQFXC5JYWDwDKf/hA==:78f1b67544055c2e496160f00ca7ff84:V6bnolRk:kubica5:zfiofdd
-
+seoim/c8XCmNWHGotAAHjg==:b1ea229bf73c5c298d5871a8b400078e:1hVaRkXL:cavosova:jaspemf
++WEhFevZPryGbNhW8INVSQ==:f9612115ebd93ebc866cd856f0835549:Tljkk9Tn:vrab5:jaspemf
 
 #hashcat -a 3 HASHES.txt -1 ?l?d?u ?1?1?1?1?1 -i --increment-min=4 -m 10
 VwpJQT3xp/CpsaGFHEEpiQ==:570a49413df1a7f0a9b1a1851c412989:3i6bbjaT:stech:e1VL
