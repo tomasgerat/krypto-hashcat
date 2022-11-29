@@ -1,0 +1,37 @@
+#hashcat  HASHES.txt names_processed.lst -m 10
+cdbad671e1ea1601b6a412101b279aad:DdvjOHO1:kAtarina
+3006a1f037e8fa1de451470c02c88428:VU79g70b:milaDa
+1829ef19d0f06549c67d8345ab0e0b94:lwDTZIfw:leNka
+
+#hashcat -a 3 HASHES.txt ?l?l?l?l?l?l?l -i --increment-min=6 -m 10
+#hashcat -a 3 HASHES.txt ?l?l?l?l?l?l  -m 10
+f9c1b0c043e4a6765c241f751f496722:dHUr4gFP:kjhgty
+f002e58eb7b06097a0258203118b920c:tfHLZ2GY:kjhgty
+00c55aa8a25352f4ea4cee9552bbd0d3:hMgACdld:kjhgty
+28008963746a51175608afd4bca52c09:Qf88amDv:kjhgty
+d02eaaa2aca13ec4bf03dcc82d856ae4:v5srixHC:xyzabc
+686aae521e0fb8284fb9a781342ce0fd:UwB7tWag:xyzabc
+
+#hashcat -a 3 HASHES.txt ?l?l?l?l?l?l?l -m 10
+01711dfa917fe29447409f820715c55b:sSi5cEYz:zfiofdd
+e091a69539e046923600c83de6964589:XBmGIaPQ:qhvkrls
+78f1b67544055c2e496160f00ca7ff84:V6bnolRk:zfiofdd
+
+
+#hashcat -a 3 HASHES.txt -1 ?l?d?u ?1?1?1?1?1 -i --increment-min=4 -m 10
+570a49413df1a7f0a9b1a1851c412989:3i6bbjaT:e1VL
+f14082789ab08234abd86131d1f60eb5:XbmPIzdV:ZH0n
+c5a216b3777cd5bc0e72289048f2d600:1mRCTqle:e1VL
+c81b9ec61ba2b8ec562fa40d4f663b90:83muHdsn:ZH0n
+84817d5d6f9adcb2ff6efc780dbb0667:DuMbRYmy:ZH0n
+6c38bb95e77b5f3280cbc1296e1fe76b:laTf36nF:0y1W
+9f29691faa483b5878fac8f79ec95d14:t6RFkrjT:ow2K
+5a08476929931202da4c104749777ab0:MykpFFEW:0y1W
+03be23a5084048e50290b26b898f243d:SLmX5Uua:s7xG
+e2a0ec78f0a1333251633c4185a22475:PlbP2r3V:9YyU
+6bb3768acdd4b4e769fb5a1dab9d6357:ZPSCovmD:Cl3I
+1829ef19d0f06549c67d8345ab0e0b94:lwDTZIfw:leNka
+2de6cbbea44a8afc86c724defd22c973:3B0hFRav:katkA
+33548f2307cb1099a92b87a2ae262677:ZTXfkOqQ:petkO
+e2b06c283afc7e863dd9e00e127d289b:Iwjsc2Tb:petkO
+
